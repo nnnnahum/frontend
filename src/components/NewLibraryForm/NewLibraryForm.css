@@ -1,0 +1,33 @@
+.new-library-form {
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 20px;
+}
+
+.new-library-form-selector {
+    color: white;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 28%;
+}
+
+.new-library-form-name {
+    color: white;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 15%;
+}
+
+.new-library-form-submit {
+    width: 80%;
+    height: 60%;
+    size: large;
+    font-size: medium;
+    background-color: rgb(27, 77, 227);
+    color: white;
+    font-family: 'DM Sans';
+    font-weight: 300;
+    margin-left: 5%;
+    margin-top: 20%;
+}

@@ -1,0 +1,13 @@
+.login {
+    cursor: 'pointer';
+    border: '1px solid #788199';
+    box-sizing: 'border-box';
+    background-color: '#181a1f';
+    color: '#ffffff';
+    font-size: large;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    line-height: '31px';
+    outline: 'none';
+    float: right;
+}

@@ -1,0 +1,13 @@
+.overview {
+    color: white;
+    float: left;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    width: 100%;
+    padding-top: 15%;
+    padding-left: 10px;
+    text-align: left;
+    transition: background-color 0.3s;
+    list-style-type: none;
+    padding: 0;
+}

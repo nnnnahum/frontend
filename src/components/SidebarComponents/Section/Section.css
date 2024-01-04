@@ -1,0 +1,15 @@
+.section {
+    color: white;
+    fill: white;
+    float: left;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    width: 100%;
+    padding-top: 15%;
+    text-align: left;
+    display: list-item;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}

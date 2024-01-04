@@ -1,0 +1,10 @@
+.landing-page-get-started {
+    width: 30%;
+    height: 60%;
+    size: large;
+    font-size: medium;
+    background-color: rgb(27, 77, 227);
+    color: white;
+    font-family: 'DM Sans';
+    font-weight: 700;
+}

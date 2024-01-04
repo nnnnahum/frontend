@@ -1,0 +1,10 @@
+.home-button {
+    color: white;
+    float: left;
+    font-size: x-large;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 2%;
+}
